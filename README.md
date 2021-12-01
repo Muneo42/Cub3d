@@ -11,7 +11,4 @@ Contraintes:
  
 Usage:
 - `Make`
-- `Make re`
-- `Make bonus`
-
-You can go to the Makefile to modify which map you wanna use.
+- `./cub3d maps/test.cub`
